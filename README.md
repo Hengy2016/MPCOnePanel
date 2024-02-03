@@ -1,7 +1,7 @@
 # MPC One Front Panel Template
 *A simple inkscape file for a cut out template for laser cutting*
 
-![](docs/MPCOne Template.png)
+![](docs/MPCOne_Template.png)
 
 Simple template for MPC One front panel.
 Created in Inkscape.
